@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a computer science student at university of Genoa (UNIGE) </h3>
 
-### 🛠 &nbsp;Languages and tools:
+### Languages and tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
